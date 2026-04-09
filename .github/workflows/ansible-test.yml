@@ -25,7 +25,7 @@
 #    https://github.com/marketplace/actions/alls-green#gotchas for more detail.
 # 7. If you need help please ask in #community:ansible.com on Matrix
 #    or in bridged #ansible-community on the Libera.Chat IRC channel.
-#    See https://docs.ansible.com/projects/ansible/devel/community/communication.html
+#    See https://docs.ansible.com/projects/ansible/latest/community/communication.html
 #    for details.
 # 8. If your collection is [going to get] included in the Ansible package,
 #    it has to adhere to Python compatibility and CI testing requirements described in
